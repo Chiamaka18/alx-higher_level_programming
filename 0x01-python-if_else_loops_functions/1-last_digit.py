@@ -11,4 +11,3 @@ elif ld == 0:
     print(f"{fmt:s} 0")
 else:
     print(f"{fmt:s} less than 6 and not 0")
-
